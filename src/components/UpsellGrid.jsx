@@ -53,7 +53,7 @@ function UpsellGrid() {
               Competitive Rates
             </p>
             <p className="px-12">
-              Building your online persona can be expensive. We've been there. That's why we offer competitive rates to help you get established without breaking the bank.
+              Building your online persona can be expensive. We've been there. That's why we offer competitive rates to help you get established.
             </p>
           </div>
         </div>
